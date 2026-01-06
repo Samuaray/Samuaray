@@ -1,5 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Samuel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+Hi, I'm Samuel 
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIxdWZkOXVqN25iaGp2d210cmhrNXZjZm9jbm93eTFnbWFydnk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HhZH4m2aNc9WMMb33e/giphy.gif" width="230">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuela-araya/)](https://www.linkedin.com/in/samuela-araya/)
 [![GitHub followers](https://img.shields.io/github/followers/Samuaray?label=Follow&style=social)](https://github.com/Samuaray)
