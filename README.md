@@ -61,7 +61,7 @@
 ### [Mira](https://github.com/Samuaray) - 🥇 1st Place Microsoft Global Intern Hackathon 2025
 AI-powered browser extension enabling voice-controlled web navigation for visually impaired users
 - **Tech:** TypeScript, Azure Web PubSub, Azure AI Foundry
-- **Impact:** Real-time AI agent execution with <500ms latency
+- **Impact:** Real-time AI agent execution
 - **Internal Hackthon** 
 
 ### [TriageFlow](https://devpost.com/software/triageflow) - CalHacks 2025
