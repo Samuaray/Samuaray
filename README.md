@@ -1,5 +1,4 @@
-Hi, I'm Samuel 
-<img align='right' <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIxdWZkOXVqN25iaGp2d210cmhrNXZjZm9jbm93eTFnbWFydnk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HhZH4m2aNc9WMMb33e/giphy.gif" width="50"></h2>
+Hi, I'm Samuel src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGIxdWZkOXVqN25iaGp2d210cmhrNXZjZm9jbm93eTFnbWFydnk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HhZH4m2aNc9WMMb33e/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuela-araya/)](https://www.linkedin.com/in/samuela-araya/)
