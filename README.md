@@ -50,10 +50,11 @@
 
 ## 🏆 Recent Highlights
 
-- 🥇 **Microsoft Global Hackathon Winner** - Built Mira, an AI-powered browser extension for visually impaired users
-- ⚡ **95% Performance Improvement** - Optimized multimodal ML training pipeline at Microsoft (1 hour → 3 minutes)
-- 🤖 **RAG Expert** - Built production AI systems using Retrieval-Augmented Generation with Claude API
-- 📊 **Scaled Systems** - Processed 425GB+ of training data on distributed infrastructure
+- 🥇 **Microsoft Global Intern Hackathon 2025 Winner (1st Place)** - Co-developed Mira, an AI-powered browser extension for visually impaired users
+- 📊 **Optimized ML Pipeline at Microsoft** - Re-architected a multimodal training data pipeline supporting Bing's generative search experience, reducing training time 15% and increasing throughput 54%
+- 🤖 **Built Production RAG Systems** - Developed AI-powered emergency triage platform using ChromaDB and Claude API
+- 🥉 **3rd Place at Bronco Hacks** - Co-created CarbonCloset, a gamified thrift e-commerce platform
+- 🔧 **90% Efficiency Gain** - Modernized legacy data systems at Southern California Edison over 2 years
 
 ## 🚀 Featured Projects
 
