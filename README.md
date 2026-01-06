@@ -57,11 +57,11 @@
 
 ## 🚀 Featured Projects
 
-### [Mira](https://github.com/Samuaray) - 🥇 1st Place Microsoft Global Hackathon
+### [Mira](https://github.com/Samuaray) - 🥇 1st Place Microsoft Global Intern Hackathon 2025
 AI-powered browser extension enabling voice-controlled web navigation for visually impaired users
 - **Tech:** TypeScript, Azure Web PubSub, Azure AI Foundry
 - **Impact:** Real-time AI agent execution with <500ms latency
-- **Internal Hackthon:** 
+- **Internal Hackthon** 
 
 ### [TriageFlow](https://devpost.com/software/triageflow) - CalHacks 2025
 AI-powered emergency triage platform with RAG architecture
@@ -80,13 +80,8 @@ AI baby monitoring with hazard detection
 
 ## 📫 Let's Connect!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> 😊</em>
-
 - 💼 Open to **New Grad SWE roles** (starting January-June 2026)
 - 🎯 Interested in **AI/ML Engineering**, **Backend Infrastructure**, **Full-Stack Development**
 - 🤝 Open to collaborate on **AI projects**, **hackathons**, **open-source**
-
-<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
-
 ---
 
