@@ -1,0 +1,137 @@
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Samuel Araya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuela-araya/)](https://www.linkedin.com/in/samuela-araya/)
+[![GitHub followers](https://img.shields.io/github/followers/Samuaray?label=Follow&style=social)](https://github.com/Samuaray)
+<a href="mailto:saraya95@yahoo.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+**📈 My GitHub Stats**
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=Samuaray&color=blue)
+
+<!-- Coding Since -->
+![Coding Since](https://img.shields.io/badge/Coding%20Since-2020-blue)
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuaray&show_icons=true&theme=github_dark)
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🧠 AI/ML & Data
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/-Claude%20API-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const samuel = {
+    pronouns: "he" | "him",
+    education: {
+        university: "California State Polytechnic University Pomona",
+        program: "B.S. in Computer Science",
+        graduation: "December 2025",
+        gpa: 3.0,
+        affiliations: ["Brilliant Black Minds", "ColorStack", "STEM Advantage", "CodePath", "NSBE"]
+    },
+    code: ["Python", "JavaScript", "TypeScript", "Java", "SQL", "Bash"],
+    askMeAbout: ["AI/ML", "multimodal systems", "RAG", "LLMs", "distributed systems", "hackathons"],
+    technologies: {
+        aiml: {
+            frameworks: ["Hugging Face", "ChromaDB", "Azure ML Studio", "Azure AI Foundry"],
+            apis: ["Claude API", "AWS Bedrock"],
+            techniques: ["RAG Architecture", "Prompt Engineering", "Multimodal ML"]
+        },
+        webDev: {
+            frontend: ["React", "Next.js", "TypeScript"],
+            backend: ["Python", "Firebase", "REST APIs"],
+            databases: ["MySQL", "Firestore"]
+        },
+        dataEngineering: ["Pandas", "NumPy", "SAS", "ETL", "Parquet"],
+        cloud: ["AWS", "Azure", "Azure Web PubSub"],
+        tools: ["Git/GitLab", "Docker", "VS Code", "Cursor", "Claude Code"]
+    },
+    currentRole: [
+        "Full Stack Software Engineering Intern @ Microsoft (Bing AI)",
+        "Software Engineering Intern @ Southern California Edison"
+    ],
+    achievements: [
+        "🥇 1st Place - Microsoft Global Intern Hackathon 2025 (Healthy Future Track)",
+        "🥉 3rd Place - Bronco Hacks 2025",
+        "🎯 Optimized ML pipelines by 95% at Microsoft",
+        "⚡ Built RAG systems with Claude API for healthcare AI"
+    ],
+    currentFocus: "Building production-scale AI/ML systems and exploring multimodal applications",
+    funFact: "I won 1st place at Microsoft's global hackathon competing against all interns worldwide 🚀"
+};
+```
+
+## 🏆 Recent Highlights
+
+- 🥇 **Microsoft Global Hackathon Winner** - Built Mira, an AI-powered browser extension for visually impaired users
+- ⚡ **95% Performance Improvement** - Optimized multimodal ML training pipeline at Microsoft (1 hour → 3 minutes)
+- 🤖 **RAG Expert** - Built production AI systems using Retrieval-Augmented Generation with Claude API
+- 📊 **Scaled Systems** - Processed 425GB+ of training data on distributed infrastructure
+
+## 🚀 Featured Projects
+
+### [Mira](https://github.com/Samuaray) - 🥇 1st Place Microsoft Global Hackathon
+AI-powered browser extension enabling voice-controlled web navigation for visually impaired users
+- **Tech:** TypeScript, Azure Web PubSub, Azure AI Foundry
+- **Impact:** Real-time AI agent execution with <500ms latency
+
+### [TriageFlow](https://github.com/Samuaray) - CalHacks 2025
+AI-powered emergency triage platform with RAG architecture
+- **Tech:** Python, React, ChromaDB, Claude API
+- **Impact:** ESI-compliant medical prioritization
+
+### [CarbonCloset](https://github.com/Samuaray) - 🥉 3rd Place Bronco Hacks
+Gamified thrift e-commerce marketplace
+- **Tech:** Next.js, Firebase, Stripe
+- **Impact:** Targeting 10M+ college students
+
+### [Safenest.AI](https://github.com/Samuaray) - UC Berkeley AI Hackathon
+AI baby monitoring with hazard detection
+- **Tech:** Python, AWS Bedrock, Claude, Twilio
+- **Impact:** Multi-modal AI pipeline (vision + audio)
+
+## 📫 Let's Connect!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat!</b> 😊</em>
+
+- 💼 Open to **New Grad SWE roles** (starting January-June 2026)
+- 🎯 Interested in **AI/ML Engineering**, **Backend Infrastructure**, **Full-Stack Development**
+- 🤝 Open to collaborate on **AI projects**, **hackathons**, **open-source**
+
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg">
+
+---
+
+**⚡ Fun fact:** I've optimized systems serving millions of users, built AI systems that won global competitions, and I'm just getting started! ☕
